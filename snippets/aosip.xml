@@ -15,6 +15,10 @@
            fetch="https://github.com/AOSiP-Devices"
            revision="refs/heads/ten" />
 
+  <remote  name="lz"
+           fetch="https://github.com/LightningZap"
+           revision="refs/heads/ten" />
+
   <!-- AOSiP -->
   <!-- General -->
   <project path="art" name="platform_art" remote="aosip" />
